@@ -4,18 +4,12 @@ go 1.16
 
 require (
 	github.com/fsnotify/fsnotify v1.4.7
-	github.com/go-ini/ini v1.46.0
-	github.com/google/gousb v0.0.0-20190812193832-18f4c1d8a750
+	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/pkg/errors v0.8.1
-	golang.org/x/crypto v0.0.0-20191011191535-87dc89f01550 // indirect
-	golang.org/x/sys v0.0.0-20190826190057-c7b8b68b1456
-	google.golang.org/grpc v1.23.1
-	k8s.io/api v0.17.0
-	k8s.io/apimachinery v0.17.0
-	k8s.io/client-go v0.17.0
+	golang.org/x/net v0.0.0-20201110031124-69a78807bb2b // indirect
+	golang.org/x/sys v0.0.0-20201112073958-5cba982894dd // indirect
+	google.golang.org/grpc v1.26.0
 	k8s.io/kubelet v0.0.0
-	k8s.io/kubernetes v1.17.0
-	k8s.io/utils v0.0.0-20191114184206-e782cd3c129f
 )
 
 replace (
