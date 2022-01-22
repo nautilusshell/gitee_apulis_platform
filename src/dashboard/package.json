@@ -65,7 +65,7 @@
     "luxon": "^1.17.2",
     "material-table": "^1.49.0",
     "mini-css-extract-plugin": "0.8.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^3.1.1",
     "notistack": "^0.9.7",
     "optimize-css-assets-webpack-plugin": "5.0.3",
     "pino": "^4.0.0",
